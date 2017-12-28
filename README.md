@@ -25,7 +25,7 @@ You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "
 
 - [Medium - Nishank Kumar Sharma](https://medium.com/click-bait/image-data-augmentation-using-keras-a6a61edbc59f "Medium - Nishank Kumar Sharma")
 
-# Other information:
+# Other information
 
 The test.zip file contains the folder used as input.
 
